@@ -1,0 +1,23 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusgomes062/node-basics.git"
+  },
+  "author": "Matheus Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusgomes062/node-basics/issues"
+  },
+  "homepage": "https://github.com/matheusgomes062/node-basics#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
